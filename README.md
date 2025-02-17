@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center" id=status> 
-	:beginner: Initiated :beginner:
+	:beginner: Iniciação :beginner:
 </h2>
 
 <h2 id=objective>:scroll: Objective</h2>
