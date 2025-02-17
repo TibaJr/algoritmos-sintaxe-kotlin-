@@ -11,7 +11,7 @@
 	:beginner: Iniciação :beginner:
 </h2>
 
-<h2 id=objective>:scroll: Objective</h2>
+<h2 id=objective>:scroll: Objetivo</h2>
 Meu objetivo e compreender e me familiarizar com a sintaxe básica do kotlin por meio destes exercicios.
 
 <h2 id=installation>:clipboard: Instalação</h2>
