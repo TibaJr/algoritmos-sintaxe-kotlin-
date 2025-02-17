@@ -27,4 +27,4 @@ As seguintes ferramentas foram usados no desenvolvimento deste projeto:
 
 <h2 id=author>:grin: Autor</h2>
 
-Desenvolvido por <a href="https://www.linkedin.com/in/TibaJr/" target="_blank">Gabriel Moreira</a>
+Desenvolvido por <a href="www.linkedin.com/in/gabriel-moreira-563737320" target="_blank">Gabriel Moreira</a>
